@@ -1,0 +1,25 @@
+# --- NetBeans Specific ---
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+build/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+
+# --- Java/Compiled Files ---
+*.class
+*.jar
+*.war
+*.ear
+
+# --- Build Tools (Maven/Gradle) ---
+target/
+.gradle/
+build/
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
